@@ -9,4 +9,5 @@ function MyApp({ Component, pageProps }) {
     </ChallengesProvider>
   ) 
 }
+
 export default MyApp
